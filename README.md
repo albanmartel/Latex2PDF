@@ -1,3 +1,3 @@
 # Latex2PDF
 
-This bash script allow you to generate PDF document with latex file.
+This bash script allows you generating a PDF document with latex file.
